@@ -1,0 +1,3 @@
+File saveFile = new File("save0.sav"); // name the file yourself
+saveFile.createNewFile(); // creates a new file
+ObjectOutputStream outStream = new ObjectOutputStream(new FileOutputStream(saveFile));

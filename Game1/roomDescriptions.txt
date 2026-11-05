@@ -1,0 +1,38 @@
+Living Room
+The small living room contains a couch, coffee table, and two
+armchairs. Pictures of various cousins adorn the walls along
+with two of your aunt's wretched attempts at oil painting. You
+can't help but notice that the carpet could use a good
+vacuuming.
+Doorways lead west to your father's office, north to your
+bedroom, and east to the kitchen.
+#
+Bedroom
+This is your domain and has been since your family moved here
+when you were six. A nightstand with a Superman lamp sits next
+to your twin bed. Posters of various anime characters cover one
+wall. A pile of laundry, slowly but surely attaining sentience,
+occupies the far corner.
+The door to the attic is in the ceiling above the pile of
+clothes. You can return south to the living room.
+#
+Office
+Your father's office smells faintly of paper and old books. 
+A computer sits on a desk beside stacks of folders. 
+The blinds are half closed, leaving the room dim even during the day.
+The living room is east. A passage south leads toward the garage.
+#
+Kitchen
+The kitchen has a crowded counter, a humming refrigerator, and a table covered with yesterday's mail. 
+A flashlight, a knife, and a mysterious orb are here, waiting to be examined.
+You can head west to the living room or south to the garage.
+#
+Attic
+The attic is cramped and quiet. Boxes line the walls beneath sloping rafters, and a small safe is hidden behind a pile of old blankets. 
+Dust floats through a narrow beam of sunlight.The only way out is down to the bedroom.
+#
+Garage
+The garage contains your father's car, shelves of supplies, and scattered tools. 
+The air smells of rubber and motor oil. You have reached the place that holds the goal of your adventure.
+You can go north to the kitchen or up toward the office.
+#
